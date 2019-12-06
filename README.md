@@ -30,13 +30,30 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Document (code) Object(object like pieces our code is compiled into) Model(a set of rules)
+an object representation of the html elements of a webpage
+bridge between content and the browser
+language neutral api
+tree-like structure representing your content, structure, and style
+Dynamic
+we can add/delete/change our content
+document = page, object = js objects, model is tree like rep of DOM
+
 2. What is an event?
+
+Every user interaction with a site is an event: a click, moving the mouse, scrolling the page, pressing a key, resizing window etc
 
 3. What is an event listener?
 
+the tracking process of events, and subsequent action taken when they are triggered
+
 4. Why would we convert a NodeList into an Array?
 
+to allow us to use array functions on it
+
 5. What is a component?
+
+a dry, modular piece of reusable code
 
 ### Git Set up
 
